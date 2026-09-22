@@ -1,0 +1,5 @@
+Dipirona;Analgésico;50
+Paracetamol;Analgésico;30
+Algie;Analgésico;60
+Buscopan;Antiespasmódicos;20
+Morfina;Analgésico;100
